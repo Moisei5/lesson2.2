@@ -38,7 +38,7 @@ public class App
             System.out.print(word);
         }
         System.out.println();
-}
+} 
     public static boolean year(int a) { //Написать метод, который определяет, является ли год високосным
         int b = 4;
         int c = 100;
